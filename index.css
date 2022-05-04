@@ -1,0 +1,20 @@
+h1 {
+    font-weight: 700;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+h3{
+    text-decoration: none;
+}
+img {
+    padding-top: 100px;
+    width: 333px;
+    height: 224px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
